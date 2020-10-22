@@ -6,3 +6,5 @@ The goal of the game is to crack the password on various levels. For this, you w
 Ready-Made Prototype: https://drive.google.com/drive/folders/1E1fg_slx9aW5tA-L_fDiY_OX-9YUVm_l?usp=sharing
 
 Unity Version - 2019.4.10f1
+
+Not all temporary files are uploaded here.
